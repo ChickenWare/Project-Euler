@@ -5,6 +5,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenFibonacciNumbers", "Eve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplesOf3and5", "MultiplesOf3and5\MultiplesOf3and5.csproj", "{3AD22B5B-0284-4F8F-86AE-3FD9D7D6D01C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestPrimeFactor", "LargestPrimeFactor\LargestPrimeFactor.csproj", "{4BBEFC64-B10A-44DD-8C5C-DC098D545038}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestPalindromeProduct", "LargestPalindromeProduct\LargestPalindromeProduct.csproj", "{BBD3EBD2-8C51-4281-9475-DEF4577CF69D}"
+EndProject
 Global
 	GlobalSection(SubversionScc) = preSolution
 		Svn-Managed = True
@@ -23,6 +27,14 @@ Global
 		{3AD22B5B-0284-4F8F-86AE-3FD9D7D6D01C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AD22B5B-0284-4F8F-86AE-3FD9D7D6D01C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AD22B5B-0284-4F8F-86AE-3FD9D7D6D01C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BBEFC64-B10A-44DD-8C5C-DC098D545038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BBEFC64-B10A-44DD-8C5C-DC098D545038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BBEFC64-B10A-44DD-8C5C-DC098D545038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BBEFC64-B10A-44DD-8C5C-DC098D545038}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBD3EBD2-8C51-4281-9475-DEF4577CF69D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBD3EBD2-8C51-4281-9475-DEF4577CF69D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBD3EBD2-8C51-4281-9475-DEF4577CF69D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBD3EBD2-8C51-4281-9475-DEF4577CF69D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

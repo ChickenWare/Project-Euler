@@ -20,10 +20,30 @@ namespace LargestPalindromeProduct
                 }
             }
 
-            allThreeDigitsProducts.ToList().ToString();
+            List<string> allThreeDigitsProductsAsString = allThreeDigitsProducts.ToList().ConvertAll(s=> s.ToString());
+            allThreeDigitsProductsAsString.Reverse();
+
+            string highestPalindrome = string.Empty;
+            foreach (string productResult in allThreeDigitsProductsAsString)
+            {
+                if (productResult == ReverseString(productResult))
+                {
+                    highestPalindrome = productResult;
+                    break;
+                }
+            }
+
+            Console.WriteLine(highestPalindrome);
 
             Console.ReadLine();
-            
+        
+        }
+
+        static string ReverseString(string input)
+        {
+            char[] inputArray = input.ToCharArray();
+            Array.Reverse(inputArray);
+            return new string(inputArray);
         }
     }
 }
