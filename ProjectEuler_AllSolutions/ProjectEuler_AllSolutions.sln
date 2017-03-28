@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestPrimeFactor", "Large
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestPalindromeProduct", "LargestPalindromeProduct\LargestPalindromeProduct.csproj", "{BBD3EBD2-8C51-4281-9475-DEF4577CF69D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallestMultiple", "SmallestMultiple\SmallestMultiple.csproj", "{50B3CAFF-855E-4C4D-ADE2-90A911F6DB31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumSquareDifference", "SumSquareDifference\SumSquareDifference.csproj", "{BF1FF1DC-1F30-4A70-97B5-05E02A529741}"
+EndProject
 Global
 	GlobalSection(SubversionScc) = preSolution
 		Svn-Managed = True
@@ -35,6 +39,14 @@ Global
 		{BBD3EBD2-8C51-4281-9475-DEF4577CF69D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBD3EBD2-8C51-4281-9475-DEF4577CF69D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBD3EBD2-8C51-4281-9475-DEF4577CF69D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50B3CAFF-855E-4C4D-ADE2-90A911F6DB31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50B3CAFF-855E-4C4D-ADE2-90A911F6DB31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50B3CAFF-855E-4C4D-ADE2-90A911F6DB31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50B3CAFF-855E-4C4D-ADE2-90A911F6DB31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF1FF1DC-1F30-4A70-97B5-05E02A529741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF1FF1DC-1F30-4A70-97B5-05E02A529741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF1FF1DC-1F30-4A70-97B5-05E02A529741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF1FF1DC-1F30-4A70-97B5-05E02A529741}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
