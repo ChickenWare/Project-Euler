@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumSquareDifference", "SumS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10001stPrime", "10001stPrime\10001stPrime.csproj", "{A61BEC49-7AAA-4C2C-8901-3E32EED394A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestProductInASeries", "LargestProductInASeries\LargestProductInASeries.csproj", "{B7CDC9C2-1687-4256-91AB-5144E480CBA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecialPythagoreanTriplet", "SpecialPythagoreanTriplet\SpecialPythagoreanTriplet.csproj", "{DF474755-AC70-4D26-874E-BF619C56DA69}"
+EndProject
 Global
 	GlobalSection(SubversionScc) = preSolution
 		Svn-Managed = True
@@ -53,6 +57,14 @@ Global
 		{A61BEC49-7AAA-4C2C-8901-3E32EED394A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A61BEC49-7AAA-4C2C-8901-3E32EED394A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A61BEC49-7AAA-4C2C-8901-3E32EED394A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7CDC9C2-1687-4256-91AB-5144E480CBA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7CDC9C2-1687-4256-91AB-5144E480CBA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7CDC9C2-1687-4256-91AB-5144E480CBA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7CDC9C2-1687-4256-91AB-5144E480CBA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF474755-AC70-4D26-874E-BF619C56DA69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF474755-AC70-4D26-874E-BF619C56DA69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF474755-AC70-4D26-874E-BF619C56DA69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF474755-AC70-4D26-874E-BF619C56DA69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
