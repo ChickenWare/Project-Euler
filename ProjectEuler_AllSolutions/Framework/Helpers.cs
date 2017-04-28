@@ -38,11 +38,11 @@ namespace ChickenWare.Framework
             return allPrimeNumbers;
         }
 
-        private static Dictionary<int, bool> ListAllNumbersBelow(int maxNumber)
+        public static Dictionary<int, bool> ListAllNumbersBelow(int maxNumber)
         {
             Dictionary<int, bool> listOfPotentialDivider = new Dictionary<int, bool>();
 
-            for (int i = 2; i <= maxNumber; i++)
+            for (int i = 1; i <= maxNumber; i++)
             {
                 listOfPotentialDivider.Add(i, true);
             }
