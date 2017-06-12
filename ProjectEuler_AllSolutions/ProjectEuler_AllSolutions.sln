@@ -39,6 +39,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberLettersCount", "Numbe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumPathSearch", "MaximumPathSearch\MaximumPathSearch.csproj", "{BF6F98C9-1E67-4D1B-A407-7954615784F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingSundays", "CountingSundays\CountingSundays.csproj", "{39CF61D5-7A45-4D57-A09E-84341A719E70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorialDigitSum", "FactorialDigitSum\FactorialDigitSum.csproj", "{748EF6B0-C0BD-47F1-8059-9E09026E1518}"
+EndProject
 Global
 	GlobalSection(SubversionScc) = preSolution
 		Svn-Managed = True
@@ -125,6 +129,14 @@ Global
 		{BF6F98C9-1E67-4D1B-A407-7954615784F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF6F98C9-1E67-4D1B-A407-7954615784F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF6F98C9-1E67-4D1B-A407-7954615784F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39CF61D5-7A45-4D57-A09E-84341A719E70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39CF61D5-7A45-4D57-A09E-84341A719E70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39CF61D5-7A45-4D57-A09E-84341A719E70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39CF61D5-7A45-4D57-A09E-84341A719E70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{748EF6B0-C0BD-47F1-8059-9E09026E1518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{748EF6B0-C0BD-47F1-8059-9E09026E1518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{748EF6B0-C0BD-47F1-8059-9E09026E1518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{748EF6B0-C0BD-47F1-8059-9E09026E1518}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
